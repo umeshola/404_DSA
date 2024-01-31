@@ -1,4 +1,4 @@
-# DSA Learning Platform
+# 404 DSA
 
 Welcome to the DSA Learning Platform! This project is designed to make your DSA journey easy and effective. It provides two user paths: Admin and User. Admins can add questions, while users can view and complete these questions, marking them as done.
 
@@ -18,14 +18,6 @@ The project is structured as follows:
 - **src/components**: Shared components used by both Admin and User interfaces.
 - **src/api**: Functions for handling data (e.g., fetching questions, marking them as done).
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- Node.js
-- npm (Node Package Manager)
 
 
 ![Screenshot 2024-01-31 182316](https://github.com/umeshola/404_DSA/assets/102541415/448af8bf-3532-41c9-9867-381c8ed1de47)
