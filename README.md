@@ -9,8 +9,7 @@ Welcome to the DSA Learning Platform! This project is designed to make your DSA 
 - React (for building user interfaces)
 - Material-UI (for CSS styling)
 - MongoDB(data storage)
-- AWS(deploying)
-- 
+
 
 ## Project Structure
 
