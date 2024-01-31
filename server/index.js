@@ -91,9 +91,8 @@ const user_auth = (req, res, next) => {
 };
 
 
-// mongoose.connect('mongodb+srv://umeshola07:qNcsvOcbctqmMMRr@cluster07.pwmrrnn.mongodb.net/DSA', { useNewUrlParser: true, useUnifiedTopology: true, });
-
-mongoose.connect('mongodb+srv://umeshola07:qNcsvOcbctqmMMRr@cluster07.pwmrrnn.mongodb.net/DSA');
+//add your mongoose db link here
+mongoose.connect('************e');
 
 
 app.post('/admin/signup', async(req, res) => {
