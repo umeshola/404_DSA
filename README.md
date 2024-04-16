@@ -18,7 +18,7 @@ The project is structured as follows:
 - **src/admin**: Contains components and logic related to the Admin path.
 - **src/user**: Contains components and logic related to the User path.
 - **src/components**: Shared components used by both Admin and User interfaces.
-- **src/api**: Functions for handling data (e.g., fetching questions, marking them as done).
+- **src/api**: Functions for handling data (e.g., fetching questions, marking them as done)
 
 
 
